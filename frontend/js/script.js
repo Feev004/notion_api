@@ -1,4 +1,4 @@
-const apiUrl = "ngrok_url/api/users";
+const apiUrl = "https://desired-monthly-griffon.ngrok-free.app/api/users";
 
 // Load and display users
 async function loadUsers() {
